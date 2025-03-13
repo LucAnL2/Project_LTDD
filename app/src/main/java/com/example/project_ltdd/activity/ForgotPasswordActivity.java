@@ -1,4 +1,4 @@
-package com.example.project_ltdd;
+package com.example.project_ltdd.activity;
 
 import android.os.Bundle;
 import android.text.TextUtils;
@@ -12,6 +12,8 @@ import androidx.appcompat.app.AppCompatActivity;
 import androidx.core.graphics.Insets;
 import androidx.core.view.ViewCompat;
 import androidx.core.view.WindowInsetsCompat;
+
+import com.example.project_ltdd.R;
 
 import java.util.Properties;
 import java.util.Random;

@@ -1,4 +1,4 @@
-package com.example.project_ltdd;
+package com.example.project_ltdd.activity;
 
 import android.os.Bundle;
 import android.view.View;
@@ -11,6 +11,8 @@ import androidx.appcompat.app.AppCompatActivity;
 import androidx.core.graphics.Insets;
 import androidx.core.view.ViewCompat;
 import androidx.core.view.WindowInsetsCompat;
+
+import com.example.project_ltdd.R;
 
 public class LoginActivity extends AppCompatActivity {
     private static final String VALID_EMAIL = "huynhthaitoan.12c1htk@gmail.com";
